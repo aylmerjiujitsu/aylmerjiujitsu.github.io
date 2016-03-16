@@ -39,6 +39,10 @@ p.lead {
 	font-weight: 600;
 }
 
+th {
+	text-align: center;
+}
+
 a {
     color: #28c3ab;
     -webkit-transition: all .2s ease-in-out;
